@@ -17,3 +17,7 @@ analysis, topic modeling, sentiment analysis and named entity
 recognition to assess whether the firms’ linguistic reactions’ to
 society’s demands have changed in the sustainability context in the
 comparison of before and after COVID.
+
+To what extent can NLP discover the evolution of the topics in
+business domain in response to societal backlash through social
+media in the context of sustainability before and after COVID?
