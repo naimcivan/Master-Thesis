@@ -21,4 +21,5 @@ comparison of before and after COVID.
 To what extent can NLP discover the evolution of the topics in
 business domain in response to societal backlash through social
 media in the context of sustainability before and after COVID?
+
 ![architecture](https://user-images.githubusercontent.com/71988270/210887527-be87c336-2d46-4161-8306-6fe4ff20c2c9.PNG)
